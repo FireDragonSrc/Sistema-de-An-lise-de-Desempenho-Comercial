@@ -1,5 +1,5 @@
-<h1>Sistema-de-An-lise-de-Desempenho-Comercial</h1>
-Sistema de dashboard e relatórios automatizados para análise de performance de equipes comerciais, desenvolvido em Python.
+<h1>Sistema-de-An-lise-de-Desempenho-Comercial</h1>          <strong>branches: master</strong>
+Sistema de dashboard e relatórios automatizados para análise de performance de equipes comerciais, desenvolvido em Python. 
 
 Tecnologias Utilizadas
 - **Python** - Lógica de negócio e análise
