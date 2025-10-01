@@ -1,0 +1,21 @@
+﻿id_funcionario,nome,idade,departamento,cidade,vendas_mensal,comissao,data_contratacao,metas_atingidas,avaliacao
+1,Ana Silva,28,Vendas,São Paulo,48500.5,2425.25,2022-03-15,85,8.5
+2,Carlos Oliveira,35,Vendas,Rio de Janeiro,32000.0,1600.0,2020-11-08,65,7.2
+3,Maria Santos,42,Marketing,Belo Horizonte,27500.75,0.0,2019-05-22,90,9.1
+4,Pedro Costa,31,Vendas,Salvador,61200.0,3060.0,2021-07-30,95,9.8
+5,Juliana Pereira,26,Vendas,São Paulo,38900.25,1945.12,2023-01-10,70,6.9
+6,Rodrigo Alves,29,Marketing,Florianópolis,0.0,0.0,2022-09-17,0,5.0
+7,Fernanda Lima,38,Vendas,Porto Alegre,52800.0,2640.0,2018-12-05,88,8.7
+8,Lucas Martins,33,Vendas,Recife,44100.5,2205.25,2021-04-18,78,7.8
+9,Amanda Rocha,45,Marketing,Fortaleza,0.0,0.0,2020-06-12,60,6.5
+10,Rafael Souza,27,Vendas,Curitiba,49500.75,2475.38,2022-11-25,92,9.3
+11,Patrícia Mendes,36,Vendas,São Paulo,56800.0,2840.0,2019-08-14,96,9.6
+12,Bruno Carvalho,40,Marketing,Rio de Janeiro,0.0,0.0,2021-02-28,75,7.0
+13,Vanessa Oliveira,29,Vendas,Brasília,37800.25,1890.12,2023-03-05,68,6.7
+14,Diego Silva,34,Vendas,Salvador,60100.0,3005.0,2020-10-11,94,9.4
+15,Camila Santos,31,Marketing,Manaus,0.0,0.0,2022-07-19,82,8.1
+16,Thiago Oliveira,32,Vendas,Belo Horizonte,45200.0,2260.0,2021-08-22,87,8.3
+17,Larissa Costa,27,Marketing,Porto Alegre,0.0,0.0,2023-02-14,72,7.1
+18,Marcos Santos,41,Vendas,Fortaleza,58700.5,2935.25,2020-05-30,91,9.0
+19,Beatriz Lima,30,Vendas,Recife,33400.75,1670.38,2022-12-08,66,6.8
+20,Gabriel Rocha,28,Marketing,Curitiba,0.0,0.0,2021-11-03,79,7.5
